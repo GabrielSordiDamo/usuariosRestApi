@@ -15,24 +15,27 @@ usuariosRestApi pode ser utilizada para fins de aprendizado como um exemplo de u
 usuariosRestApi foi construida 100% em Java Script
 <br>
 <br>
-para rodar o java script e necessario possuir o interpretador de Java Script <a href='https://nodejs.org/en/'>NODE</a> em sua maquina
+1.para rodar o java script e necessario possuir o interpretador de Java Script <a href='https://nodejs.org/en/'>NODE</a> em sua maquina
 <br>
 <br>
-utilize o link https://github.com/GabrielSordiDamo/usuariosRestApi.git para clonar o repositorio do nink na sua maquina
+2.utilize o link https://github.com/GabrielSordiDamo/usuariosRestApi.git para clonar o repositorio do nink na sua maquina
 <br>
 <br>
-o projeto possui uma dependencia externa 'mysql2'
+3.o projeto possui uma dependencia externa 'mysql2'
 <br>
-para instalar a dependencia, rode o seguinte comanto no diretorio do seu clone: npm install mysql2
-<br>
-<br>
-para rodar o projeto execute server.js
-<br>
-a partir de agora server.js estara ouvindo a porta 3000
+4.para instalar a dependencia, entre na pasta codigoDocumentado e rode o seguinte comando: npm install mysql2
 <br>
 <br>
-acesse localhost:3000/usuarios mande requisicoes com os metodos disponivels
+5.para rodar o projeto execute server.js
+<br>
+6.a partir de agora server.js estara ouvindo a porta 3000
 <br>
 <br>
-pra mais informacoes, acesse:<br>
+7.acesse localhost:3000/usuarios mande requisicoes com os metodos disponivels
+<br>
+<br>
+8.voce pode utilizar <a href="https://www.postman.com/downloads/"> postman </a> para fazer as requisicoes.
+<br>
+<br>
+9.pra mais informacoes, acesse:<br>
 https://app.swaggerhub.com/apis-docs/GabrielSordiDamo/Usuarios/1.0.0 
